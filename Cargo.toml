@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 iced = "0.12"
 native-dialog = "0.7.0"
+rust_search = "2.0.0"
